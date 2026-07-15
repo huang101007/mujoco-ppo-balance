@@ -1,6 +1,6 @@
-# MuJoCo 強化學習與高精度控制策略開發 🤖
+# MuJoCo 強化學習與高精度控制策略開發
 
-本專案探討並實作基於 **MuJoCo** 物理引擎的強化學習 (Reinforcement Learning) 環境。透過 **PPO (Proximal Policy Optimization)** 演算法，結合客製化獎勵函數 (Custom Reward Function)，引導智能體達成高精度的倒立擺平衡控制。
+本專案探討並實作基於MuJoCo物理引擎的強化學習環境。透過PPO (Proximal Policy Optimization)演算法，結合Custom Reward Function，引導智能體達成高精度的倒立擺平衡控制。
 
 ## 專案展示
 
